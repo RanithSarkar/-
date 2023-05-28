@@ -1,0 +1,165 @@
+.HA{
+    box-shadow: 0 0 1.5vw #dc3545;
+}
+.resumeAnchar{
+    box-shadow: 0 0 1.5vw #ff5e00;
+}
+.body0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.resumeBody{
+    height: 90vw;
+    width: 90vw;
+    box-shadow: 0 0 3vw grey;
+    border-radius: 2vw;
+}
+.name0{
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name0:hover{
+    background-color:yellow;
+    transition: .75s;
+    border-radius: 2vw 2vw 0 0;
+}
+.name{
+    font-family: 'Caveat', Tahoma;
+    margin: 1vw 0;
+    font-size: 6vw;
+}
+.name:hover{
+    color:#ff4a2b;
+    transition: .75s;
+}
+.education{
+    font-size: 5vw;
+    font-weight: bold;
+    background: linear-gradient(to left,
+                    #41D8DD,#A16BFE);
+    font-family: 'Caveat', Tahoma;
+    margin-left: 2vw;
+    transition: 0.2s;
+    color: white;
+    display: inline;
+    padding: 0 1vw;
+    border-radius: 2vw;
+}
+sup{
+    font-family: 'Caveat', Tahoma;
+    font-size: 3vw;
+}
+.education:hover{
+    border-radius: 2vw;
+    background: linear-gradient(to left,
+                    #A16BFE,#41D8DD);
+    color: white;
+    display: inline;
+    padding: 0 1vw;
+    font-size: 5.2vw;
+    box-shadow: 0 0 1vw gray;
+}
+.school{
+    font-size: 4vw;
+    margin-left: 4vw;
+    height: 5.5vw;
+    font-family: 'Caveat', Tahoma;
+}
+.school:hover{
+    font-size: 4vw;
+    margin-left: 4vw;
+    height: 5.5vw;
+}
+.skillA{
+    margin: 0 0 0 2vw;
+    font-size: 5vw;
+    background: linear-gradient(to left,
+                    #41D8DD,#A16BFE);
+    transition: 0.2s;
+    color: white;
+    display: inline;
+    padding: 0 3vw;
+    border-radius: 2vw;
+    font-family: 'Caveat', Tahoma;
+}
+.skillA:hover{
+    border-radius: 2vw;
+    background: linear-gradient(to left,
+                    #A16BFE,#41D8DD);
+    color: white;
+    display: inline;
+    font-size: 5.2vw;
+    box-shadow: 0 0 1vw gray;
+}
+.skillB{
+    font-size: 4vw;
+    margin-left: 4vw;
+    font-family: 'Caveat', Tahoma;
+}
+.link{
+    padding: 0 2.5vw;
+    position: absolute;
+}
+.link:hover{
+    padding: 0 3vw;
+}
+.fb{
+    text-decoration: none;
+    color: black;
+    font-size: 4vw;
+    margin:8vw 0 0 4vw;
+    background-color: #efefef;
+    padding: 0 1vw;
+    border-radius: 4vw;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    font-family: 'Caveat', Tahoma;
+}
+.fbI{
+    width: 4.5vw;
+    height: 4.5vw;
+    padding: 0.5vw;    
+}
+.insta{
+    margin-left: 40vw;
+}
+.in{
+    margin-top: 16vw;
+}
+.inlogo{
+    display: inline-block;
+    height: 4vw;
+    width: 4vw;
+    background-color: #1da0f1;
+    border-radius: 2vw;
+    margin-top: 0.5vw;
+    font-family:Tahoma;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tw{
+    margin: 16vw 0 0 40vw;
+}
+.tw1{
+    height: 4.5vw;
+    width: 4.5vw;
+    margin: 0.2vw 0 0 0.5vw;
+}
+.project01{
+    margin-top: 23vw;
+    position: absolute;
+}
+.project00{
+    margin-top: 35vw;
+    display: flex;
+    justify-content: center;
+    width: 90vw;
+}

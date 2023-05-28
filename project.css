@@ -1,0 +1,24 @@
+.HA{
+    box-shadow: 0 0 1.5vw #dc3545;
+}
+.projectAnchar{
+    box-shadow: 0 0 1.5vw #ff5e00;
+}
+.coming0{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to left,
+                    #41D8DD,#A16BFE);
+            -webkit-background-clip: text;
+            color: transparent;
+}
+.ComingSoon{
+    font-size: 5vw;
+    font-family: 'Caveat', Tahoma;
+}
+.emoji{
+    color: black;
+}

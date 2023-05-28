@@ -1,0 +1,87 @@
+.HA{
+    box-shadow: 0 0 1.5vw #dc3545;
+}
+.contactAnchar{
+    box-shadow: 0 0 1.5vw #ff5e00;
+}
+.contact{
+    height: 40vw;
+    width: 100vw;
+    background-image: linear-gradient(to bottom right, #41D8DD,#A16BFE);
+    position: absolute;
+}
+.contact0{
+    font-size: 10vw;
+    margin: 15vw 0 0 3vw;
+    font-weight: bold;
+    color: #ffffff;
+}
+.contact1{
+    color: #ffffff;
+    font-family: 'Caveat', Tahoma;
+    margin-left: 3vw;
+    font-size: 4vw;
+}
+.container{
+    position: absolute;
+    height: 115vw;
+    width: 100vw;
+    margin-top: 50vw;
+}
+.GIT{
+    font-size: 9vw;
+    font-weight: bold;
+    font-family: 'Caveat', Tahoma;
+    margin-left: 7vw;
+    z-index: 1;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+     border: 0;
+     height: 15vw;
+     width: 86vw;
+     position: absolute;
+     border-radius: 3vw;
+   /*  background: linear-gradient(to top  left,#41D8DD,#A16BFE); */
+   background-color: #fff1f3;
+     color: #dc3545;
+     font-weight: bold;
+     font-size: 3.5vw;
+}
+#name{
+    margin: 15vw 0 0 7vw;
+}
+#email{
+    margin: 34vw 0 0 7vw;
+}
+#phone{
+    margin: 53vw 0 0 7vw;
+}
+#message{
+    margin: 72vw 0 0 7vw;
+}
+::placeholder{
+    color: #dc3545;
+}
+input:focus{
+    border: 2px solid green;
+}
+.submit0{
+    display: flex;
+    justify-content: center;
+    margin-top: 80vw;
+}
+#submit{
+    height: 7vw;
+    width: 86vw;
+    position: absolute;
+    border-radius: 44vw;
+    border: 0;
+    color: #ffffff;
+    background-color: #dc3545;
+    font-weight: bold;
+    font-size: 3.5vw;
+}
