@@ -1,0 +1,50 @@
+.HA{
+    box-shadow: 0 0 1.5vw #dc3545;
+}
+.error{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ops{
+    font-family: 'Caveat', Tahoma;
+    font-size: 9vw;
+    color: #d12d69;
+    position: absolute;
+    margin-top: -17vw;
+}
+.message{
+    position: absolute;
+    color: #641220;
+    font-family: 'Caveat', Tahoma;
+    font-size: 4.5vw;
+}
+.home001{
+    position: absolute;
+    margin-top: 17vw;
+}
+.home002{
+    border: 0;
+    height: 6.5vw;
+    width: 20vw;
+    border-radius: 33vw;
+    background-color: #fff1f3;
+    color: #d12d69;
+    font-weight: bold;
+    font-size: 2.7vw;
+    box-shadow: 0 0 1.5vw #dc3545;
+}
+.home002:hover{
+    background-color: #d12d69;
+    color: #fff1f3;
+    transition: 0.1s;
+}
+.design{
+    position: absolute;
+    height: 30vw;
+    width: 100vw;
+    top: 10vw;
+    background-image: linear-gradient(to bottom ,#ffbfbf,#ffffff);
+}
