@@ -149,6 +149,9 @@
            position: absolute;
            transition: 0.5s;
        }
+       .rr{
+           top: -100vw;
+       }
        .Ranith-Sarkar:hover{
            height: 41vw;
            width: 41vw;
