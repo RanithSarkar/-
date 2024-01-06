@@ -84,3 +84,61 @@ input:focus{
   font-weight:bold;
   font-size:3.5vw;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:500px){
+  .contact0{
+      font-size:5vw;
+      margin-top:5vw;
+  }
+  .contact1{
+      font-size:1.5vw;
+  }
+  .contact{
+      height:15vw;
+  }
+  .GIT{
+      font-size:4vw;
+      top:-30vw;
+      position: absolute;
+  }
+  input{
+  height:7vw;
+  width:40vw;
+  border-radius:1vw;
+  font-size:1.5vw;
+  }
+  #name{
+  margin:-22vw 0 0 7vw;
+  }
+  #email{
+  margin:-22vw 0 0 54vw;
+  }
+  #phone{
+  margin:-13vw 0 0 7vw;
+  }
+  #message{
+  margin:-13vw 0 0 54vw;
+  }
+  #submit{
+  height:4vw;
+  width:40vw;
+  font-size:1.5vw;
+  top:0;
+  }
+  .container{
+      height:4vw;
+  }
+}
