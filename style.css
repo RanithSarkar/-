@@ -123,7 +123,8 @@
        .background{
            position: absolute;
            width: 100vw;
-           top: 25vw;
+           height: 130vw;
+           top: 10vw;
        }
        .bg{
         display: none;
