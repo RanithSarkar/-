@@ -84,6 +84,20 @@ input:focus{
   font-weight:bold;
   font-size:3.5vw;
 }
+.ggl{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    background-color: #ffffff;
+}
+iframe{
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    z-index: 1;
+    margin-top: 10vw;
+    border: 0;
+}
 
 
 
@@ -140,5 +154,9 @@ input:focus{
   }
   .container{
       height:4vw;
+  }
+  iframe{
+      margin-top: 3vw;
+      height: 300vh;
   }
 }
