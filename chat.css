@@ -91,8 +91,8 @@ input:focus{
     background-color: #ffffff;
 }
 iframe{
-    position: fixed;
-    height: 100vh;
+    position: absolute;
+    height: 220vw;
     width: 100vw;
     z-index: 1;
     margin-top: 10vw;
@@ -157,6 +157,5 @@ iframe{
   }
   iframe{
       margin-top: 3vw;
-      height: 300vh;
   }
 }
